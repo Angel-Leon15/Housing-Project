@@ -15,4 +15,4 @@ _Project Description_
 
 _This Project was made on R_
 
-##### In order to run this Project on R, simply download the zip file and after extracting run either "Data Science Project.rmd" or "Housing_Market_Analysis_Presentation.rmd" depending on your preferred choice of viewing.
+#### In order to run this Project on R, simply download the zip file and after extracting run either "Data Science Project.rmd" or "Housing_Market_Analysis_Presentation.rmd" depending on your preferred choice of viewing.
