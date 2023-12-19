@@ -8,10 +8,10 @@ _Project Description_
 - Applied feature selection techniques to determine the most significant predictors affecting housing prices, contributing to an understanding of the market trends.
 
 ### How to Run Project
-####In this Project there are 3 Files for view currently
+#### In this Project there are 3 Files for view currently
 - The Housing Market Dataset
 - The code used for the Project
 - A zip file containing all the files necessary in order to run
   _This Project was made on R_
 
-In order to run this Project on R, simply download the zip file and after extracting run either "Data Science Project.rmd" or "Housing_Market_Analysis_Presentation.rmd" depending on your preferred choice of viewing.
+##### In order to run this Project on R, simply download the zip file and after extracting run either "Data Science Project.rmd" or "Housing_Market_Analysis_Presentation.rmd" depending on your preferred choice of viewing.
