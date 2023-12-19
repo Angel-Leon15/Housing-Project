@@ -12,6 +12,7 @@ _Project Description_
 - The Housing Market Dataset
 - The code used for the Project
 - A zip file containing all the files necessary in order to run
-  _This Project was made on R_
+
+_This Project was made on R_
 
 ##### In order to run this Project on R, simply download the zip file and after extracting run either "Data Science Project.rmd" or "Housing_Market_Analysis_Presentation.rmd" depending on your preferred choice of viewing.
