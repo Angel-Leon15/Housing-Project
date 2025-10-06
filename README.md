@@ -116,7 +116,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
-- Dataset source: housing_price_dataset.csv
+- Dataset source: [housing_price_dataset.csv](housing_price_dataset.csv)
 - Inspired by real-world housing market analysis needs
 - Built with R and the tidyverse ecosystem
 
