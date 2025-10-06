@@ -78,7 +78,7 @@ The analysis expects a CSV file with the following columns:
    - Click "Knit" in RStudio to generate the HTML report, or
    - Run chunks individually for interactive analysis
 
-## 📊 Key Findings
+## Key Findings
 
 The analysis reveals:
 
@@ -114,7 +114,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Dataset source: [housing_price_dataset.csv](housing_price_dataset.csv)
 - Inspired by real-world housing market analysis needs
