@@ -56,7 +56,7 @@ The analysis expects a CSV file with the following columns:
 - `YearBuilt`: Year the property was built (numeric)
 - `Neighborhood`: Neighborhood category (categorical)
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -95,7 +95,7 @@ The analysis reveals:
 
 3. **Price Predictions**: The model generates both static and volatility-adjusted forecasts for 2020-2050
 
-## 📝 Analysis Workflow
+##  Analysis Workflow
 
 1. **Data Loading & Exploration**: Import dataset and generate summary statistics
 2. **Trend Analysis**: Visualize price trends by year and neighborhood
@@ -104,11 +104,11 @@ The analysis reveals:
 5. **Rate Calculation**: Compute historical appreciation/depreciation rates
 6. **Future Prediction**: Generate price forecasts with realistic volatility
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
