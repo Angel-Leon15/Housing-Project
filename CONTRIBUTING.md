@@ -246,7 +246,7 @@ We're particularly interested in contributions in these areas:
 If you have questions about contributing:
 - Open an issue with the "question" label
 - Check existing issues and discussions
-- Reach out via email [your.email@example.com]
+- Reach out via email [leon.angelf15@gmail.com]
 
 ## Code of Conduct
 
